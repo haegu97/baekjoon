@@ -1,6 +1,3 @@
-from termios import B50
-
-
 n = int(input())
 
 for i in range(n):
